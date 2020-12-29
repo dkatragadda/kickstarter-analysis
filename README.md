@@ -33,9 +33,9 @@ The dataset used has given us direction on the trends for the campaign data. Som
 1. The probability of success outweighs the probability of failure if the goal of the campaign is under $15000 and the lower the goal, the higher the probability of success. 
 
 - What are some limitations of this dataset?
-* This dataset does not include certain information regarding the demographics of the backers
-* This dataset does not include the States or the regions within the country where the campaigns were successful. This would help in deciding where to target the campaigns. 
-* This dataset does not include information on the quality of the plays in the campaigns i.e. if the plays are by successful and reputed production houses etc. 
+1. This dataset does not include certain information regarding the demographics of the backers
+2. This dataset does not include the States or the regions within the country where the campaigns were successful. This would help in deciding where to target the campaigns. 
+3. This dataset does not include information on the quality of the plays in the campaigns i.e. if the plays are by successful and reputed production houses etc. 
 
 - What are some other possible tables and/or graphs that we could create?
 1. We can create charts based on the metrics related to the backers including average donation per campaign.
